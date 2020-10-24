@@ -6,4 +6,4 @@ endif
 
 let g:colors_name="lovecraft"
 
-highlight Normal ctermfg=grey ctermbg=black
+highlight Normal ctermfg=grey ctermbg=red
